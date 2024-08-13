@@ -1,0 +1,112 @@
+
+GIT:
+
+Git is a popular open source code management tool that provides comprehensiv features and wide range of applications in software industry.
+
+SORCE CODE MANAGEMENT TOOL (SCM)
+To manage source code tools are required.
+This is also used to collaborate source code to central repository.
+This is also called as Version Control System.
+Its also helps to store previous versions whenever there is required.
+It also helps that to review the code before moving to the mainstream.
+Its also helps to finding who made the changes and bugs fixing.
+
+
+GIT BASH:
+Git bash is a command prompt where it is used to run git commands.
+
+WORKING AREA:
+It is a virtual folder which is used to store files and folders in current working directiry.
+
+
+STAGING AREA:
+It is a virtual folder which is used to store folders and files that has to be committed.
+
+
+COMMIT:
+
+Commit is a process in which is used to files and folders in staging area 
+
+git clone ..> TO clone the remote repository.
+git add   ..> to move working to staging
+git commit .> to move staging to local repository
+git config --globaluser.name
+git config --global user.email
+git push origin main..> to push the commits fro local to remote repository.
+git log   ..> to shows the commits.
+git init   ..> to create a repository.
+git pull..> to pull the commits from  new remote commits to local commits.
+git fetch ..> to downloads new remote commits to local repository.
+git merge ..> to merge the commits.
+git branch <name> ..> to create a branch.
+git branch ..> to list branches.
+git checkout <branch name>  ..> to change branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process:
+
+Working area ....(Git add)...>Staging area ...(GIT COMMIT)....>LOCAL repository.....(GIT PUSH)...>REMOTE repository
+
+
+GIT RESET:
+
+Git reset is used to remove commits from the history.
+Git reset is used for only local commits.
+
+
+There are 3 types of reset are present:
+1) SOFT RESET ...> This is used to make the changes in working area.
+2) MIXED RESET...>This is used to make the changes in staging area.
+3)HARD RESET  ..> permanently discard the changes.
+
+
+GIT REVERT:
+ Git revert is retain the commits and discard only by creating new commit.
+ Git revert is used for local and remote commits.
+
+
+
+ GIT FETCH:
+
+ Git fetch is used to downloads new remote commits to local repository.
+
+ GIT PULL:
+
+ Git pull is used to download new remote commits and performs merging.
+
+
+ CHERRY PICK :
+
+ Cherry pick is used to merge or integration of special commits .
+
+
+ BARE REPOSITORY:
+
+ It is read only repository which is also used as a setup of  git remote server .
+
+
+ GIT BLAME :
+ Git blame is used to present the commits in line-wise.
+
+
+
+
+
+
+
+
+
+
+
