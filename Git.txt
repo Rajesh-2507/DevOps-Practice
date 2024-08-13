@@ -43,19 +43,6 @@ git branch <name> ..> to create a branch.
 git branch ..> to list branches.
 git checkout <branch name>  ..> to change branch
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Process:
 
 Working area ....(Git add)...>Staging area ...(GIT COMMIT)....>LOCAL repository.....(GIT PUSH)...>REMOTE repository
