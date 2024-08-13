@@ -1,0 +1,38 @@
+Devops is a combination of cultural philosphical practices and tools that enables organizations frequent releases with high velocity.
+Devops plays a major role in bridging gap between operation team and development team.
+Devops is aiming of frequent releases at rapidly.
+
+Benefits:
+Faster to the market
+less code to integrate.
+Faster market evoving.
+Compete better compitetion in the market.
+
+
+Continuous Integration:
+
+Developers must integrate their code changes to the source code central repositry  day to day life.
+There is a lot of benfits:
+Less code to integrate at the time.
+Defects can be minimizes due to the integration process.
+
+Continuous Delievery:
+It is a automating process of deploying artifacts which is created by ci tool from development to production.
+
+Continuous Deployment:
+It is same as continuous delievery process but in continuous delievery required manual approval whereas in continuous deployment process doesnt required the manual approval.
+
+
+
+Monolithic process :
+It is a process of having the bigcode base.
+it is difficult to integrate.
+it requires more time.
+It is difficult to finding the bugs present.
+If the app is down the entire application is down.
+
+Microservices:
+It is aprocess of making the code into the different parts.
+It requires less time to integrate.
+If apps is down the entire application is not down.
+
