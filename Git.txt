@@ -30,6 +30,7 @@ Commit is a process in which is used to files and folders in staging area
 git clone ..> TO clone the remote repository.
 git add   ..> to move working to staging
 git commit .> to move staging to local repository
+git commit -a -m "message" ..> to add and commit
 git config --globaluser.name
 git config --global user.email
 git push origin main..> to push the commits fro local to remote repository.
