@@ -1,5 +1,5 @@
 
-
+DevOps:
 Devops is a combination of cultural philosphical practices and tools that enables organizations frequent releases with high velocity.
 Devops plays a major role in bridging gap between operation team and development team.
 Devops is aiming of frequent releases at rapidly.
@@ -9,7 +9,6 @@ Faster to the market
 less code to integrate.
 Faster market evoving.
 Compete better compitetion in the market.
-
 
 Continuous Integration:
 
