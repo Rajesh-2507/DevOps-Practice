@@ -1,0 +1,24 @@
+MAVEN :
+
+Maven is a build tool.
+Build tools are  essential for automating artifact creation process.
+
+
+ARTIFACT:
+Artifact is defined as anything that ready to deploy.
+
+POM:
+ POM is defined as project object model.
+ It defines that it is similar to the xml file, which consists of information and configuration details about the maven project.
+
+
+LINUX:
+
+Linux is a free opensource platform
+Linux is more securable.
+Linux is a lightweight.
+Linux has command line interface.
+
+TOMCAT:
+TOMCAT is a free and opensource which is used to deploy webaplication.
+ opt/tomcat/webapps.
